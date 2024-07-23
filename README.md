@@ -1,6 +1,6 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I've developed a responsive ToDo list website using React.js, ensuring it can seamlessly adapt to various devices for optimal user experience. The website allows users to efficiently manage tasks across different screen sizes, ensuring usability on desktops, tablets, and smartphones alike
 
 Currently, two official plugins are available:
 
